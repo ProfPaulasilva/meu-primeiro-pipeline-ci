@@ -87,4 +87,4 @@ jobs:
         echo "   - Commit: ${{ github.sha }}"
 
         echo "   - Autor: ${{ github.actor }}"
-----------------
+
